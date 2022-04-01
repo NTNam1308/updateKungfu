@@ -1,0 +1,1 @@
+ALTER TABLE `users` ADD `avatar` VARCHAR(512) NOT NULL AFTER `status`;
